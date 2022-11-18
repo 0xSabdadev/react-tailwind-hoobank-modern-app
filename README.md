@@ -13,6 +13,8 @@
 Build modern bank app fully responsive with React.js - Vite.js - TailwindCSS <br/>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) with [Vite.js ⚡](https://vitejs.dev/).
 
+<img src='https://github.com/0xSabdadev/react-tailwind-hoobank-modern-app/blob/master/public/screen.png'>
+
 ## Available Scripts
 
 In the project directory, you can run:
